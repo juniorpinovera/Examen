@@ -1,0 +1,23 @@
+C:\Users\Dionisio - Progrmas\AppData\Local\Temporary Projects\Examen\bin\Debug\Examen.accdb
+C:\Users\Dionisio - Progrmas\AppData\Local\Temporary Projects\Examen\bin\Debug\Examen.exe.config
+C:\Users\Dionisio - Progrmas\AppData\Local\Temporary Projects\Examen\bin\Debug\Examen.exe
+C:\Users\Dionisio - Progrmas\AppData\Local\Temporary Projects\Examen\bin\Debug\Examen.pdb
+C:\Users\Dionisio - Progrmas\AppData\Local\Temporary Projects\Examen\bin\Debug\Examen.xml
+C:\Users\Dionisio - Progrmas\AppData\Local\Temporary Projects\Examen\obj\x86\Debug\Examen.Form1.resources
+C:\Users\Dionisio - Progrmas\AppData\Local\Temporary Projects\Examen\obj\x86\Debug\Examen.Resources.resources
+C:\Users\Dionisio - Progrmas\AppData\Local\Temporary Projects\Examen\obj\x86\Debug\Examen.vbproj.GenerateResource.Cache
+C:\Users\Dionisio - Progrmas\AppData\Local\Temporary Projects\Examen\obj\x86\Debug\Examen.exe
+C:\Users\Dionisio - Progrmas\AppData\Local\Temporary Projects\Examen\obj\x86\Debug\Examen.xml
+C:\Users\Dionisio - Progrmas\AppData\Local\Temporary Projects\Examen\obj\x86\Debug\Examen.pdb
+C:\Users\Dionisio - Progrmas\documents\visual studio 2010\Projects\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\Dionisio - Progrmas\documents\visual studio 2010\Projects\Examen\Examen\obj\x86\Debug\Examen.exe
+C:\Users\Dionisio - Progrmas\documents\visual studio 2010\Projects\Examen\Examen\obj\x86\Debug\Examen.xml
+C:\Users\Dionisio - Progrmas\documents\visual studio 2010\Projects\Examen\Examen\obj\x86\Debug\Examen.pdb
+C:\Users\Dionisio - Progrmas\documents\visual studio 2010\Projects\Examen\Examen\bin\Debug\Examen.accdb
+C:\Users\Dionisio - Progrmas\documents\visual studio 2010\Projects\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\Dionisio - Progrmas\documents\visual studio 2010\Projects\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\Dionisio - Progrmas\documents\visual studio 2010\Projects\Examen\Examen\bin\Debug\Examen.xml
+C:\Users\Dionisio - Progrmas\documents\visual studio 2010\Projects\Examen\Examen\obj\x86\Debug\Examen.Resources.resources
+C:\Users\Dionisio - Progrmas\documents\visual studio 2010\Projects\Examen\Examen\obj\x86\Debug\Examen.vbproj.GenerateResource.Cache
+C:\Users\Dionisio - Progrmas\Documents\Visual Studio 2010\Projects\Examen\Examen\obj\x86\Debug\Examen.Principal.resources
+C:\Users\Dionisio - Progrmas\Documents\Visual Studio 2010\Projects\Examen\Examen\obj\x86\Debug\Examen.Login.resources
